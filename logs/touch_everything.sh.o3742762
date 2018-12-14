@@ -1,0 +1,8 @@
+Start: Tue Sep  4 00:02:02 PDT 2018
+-rwxrwxrwx 1 idror kp1 202 Sep  1 00:01 ./config
+-rwxrwxrwx 1 idror kp1 3.0K Sep  1 00:01 ./demux.py
+-rwxrwxrwx 1 idror kp1 179 Sep  1 00:01 ./run-demux.sh
+-rwxrwxrwx 1 idror kp1 202 Sep  4 00:02 ./config
+-rwxrwxrwx 1 idror kp1 3.0K Sep  4 00:02 ./demux.py
+-rwxrwxrwx 1 idror kp1 179 Sep  4 00:02 ./run-demux.sh
+Finish: Tue Sep  4 00:02:03 PDT 2018

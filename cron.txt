@@ -1,0 +1,1 @@
+0      0     */3       *       *  ( source ~/.bash_profile; cd cronjob; ./qsub_touch_everything.sh; echo; myjobs ) > ~/cronjob/touch_everything.out 2>&1
